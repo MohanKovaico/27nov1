@@ -1,5 +1,5 @@
 ---
-title: Your first change
+title: Your first changea
 internalDescription: Edit a page and get it to readers, from the portal and from a clone.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: Make your first change in a Document360 Lotus project
+  title: Your first changea
   description: Edit this page, review the change, and publish it.
 display:
   toc: true
@@ -16,7 +16,7 @@ display:
 ---
 
 The best way to understand this project is to change something in it. This page is a safe thing to
-change, because it is sample content and nobody is relying on it.
+change, because it is sample content and nobody is relying on it.Aaa
 
 ## From the portal
 
