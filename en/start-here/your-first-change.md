@@ -1,5 +1,5 @@
 ---
-title: Your first changea
+title: Your first changeAA
 internalDescription: Edit a page and get it to readers, from the portal and from a clone.
 tags:
   - getting-started
@@ -8,15 +8,15 @@ tags:
 labels:
   - sample-content
 seo:
-  title: Your first changea
+  title: Your first changeAA
   description: Edit this page, review the change, and publish it.
 display:
   toc: true
   outline: true
 ---
 
-The best way to understand this project is to change something in it. This page is a safe thing toA
-change, because it is sample content and nobody is relying on it.Aaa
+The best way to understand this project is to change something in it. This page is a safe thing toAS
+change, because it is sample content and nobody is relying on [it.Aaa](http://it.Aaa)
 
 ## From the portal
 
