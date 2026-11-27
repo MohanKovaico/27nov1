@@ -15,7 +15,7 @@ display:
   outline: true
 ---
 
-The best way to understand this project is to change something in it. This page is a safe thing to
+The best way to understand this project is to change something in it. This page is a safe thing toA
 change, because it is sample content and nobody is relying on it.Aaa
 
 ## From the portal
