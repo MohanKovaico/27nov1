@@ -1,5 +1,5 @@
 ---
-title: Your first changea
+title: Your first changeAA
 internalDescription: Edit a page and get it to readers, from the portal and from a clone.
 tags:
   - getting-started
@@ -8,7 +8,7 @@ tags:
 labels:
   - sample-content
 seo:
-  title: Your first changea
+  title: Your first changeAA
   description: Edit this page, review the change, and publish it.
 display:
   toc: true
